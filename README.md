@@ -2,25 +2,25 @@
 
 ## Core Features:
 
-1. Course Management
+### Course Management
 - Add courses
 - Edit courses
 - Delete courses
 
-2. Student Management
+### Student Management
 - Enrollment
 - Records
 - Grades
 
-3. Faculty Management
+### Faculty Management
 - Assignments
 - Course loads
 
-4. Basic Authentication System
+### Basic Authentication System
 
-5. Grade Recording and Computation
+### Grade Recording and Computation
 
-6. Reporting System
+### Reporting System
 - Grades
 - Class lists
 - Faculty loads
